@@ -6,7 +6,7 @@ https://www.udemy.com/share/101scA3@YaSS9hOkqeMxIRKRQuI2GimwbNbt1PNjW_c2mjFVti1J
 Repositório para documentar meus estudos de Java.
 
 ## Progresso
-- [x] Seção 1 - [Estrutura sequencial] (src/secao01/README.md)
+- [x] Seção 1 - [Estrutura sequencial](src/secao01/README.md)
 - [ ] Seção 2 - Estrutura condicional
 - [ ] Seção 3 - Estrutura repetitivas
 - [ ] Seção 4 - Outros tópicos básicos sobre Java
