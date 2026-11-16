@@ -21,8 +21,7 @@ Scanner sc = new Scanner(System.in); /// Exemplo de Scanner
   de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
 - [Exercicio04.java](Exercicio04.java): Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por
   hora e calcula o salário desse funcionário.
-- [Exercicio05.java](Exercicio05.java): Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o
+- [Exercicio05.java](Exercicio05.j): Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o
   código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
-- [Exercicio06.java](...): Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e
-  mostre a área das figuras.
+- [Exercicio06.java](Exercicio06.java): Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre a área das figuras.
 
