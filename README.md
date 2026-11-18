@@ -7,7 +7,7 @@ Repositório para documentar meus estudos de Java.
 
 ## Progresso
 - [x] Seção 1 - [Estrutura sequencial](src/secao01/README.md)
-- [ ] Seção 2 - Estrutura condicional
+- [x] Seção 2 - [Estrutura condicional](src/secao02/README.md)
 - [ ] Seção 3 - Estrutura repetitivas
 - [ ] Seção 4 - Outros tópicos básicos sobre Java
 - [ ] Seção 5 - Introdução à Programação Orientada a Objeto

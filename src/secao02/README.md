@@ -26,3 +26,5 @@ if ( x >= 10){
 - [Exercicio06.java](Exercicio06.java): Programa que leia um valor e mostre em qual intervalo ele está.
 - [Exercicio07.java](Exercicio07.java): Programa que determina qual quadrante pertence o ponto ou se está sobre um dos eixos.
 - [Exercicio08.java](Exercicio08.java): Calcula a taxa de imposto de renda de salários de uma cidade fictícia.
+- [Exercicio09.java](Exercicio09.java): Fazer um programa para ler um valor inteiro de 1 a 7 representando um
+  dia da semana, escrever na tela o dia da semana correspondente
