@@ -13,4 +13,4 @@ int x = 10;
 System.out.println(x);
 ```
 ## Exercícios
-- [Exercicio01.java](Exercicio01.java): o que faz
+- [Exercicio01.java](Exercicio01.java): Retorna o maior valor digitado.
