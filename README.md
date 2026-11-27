@@ -10,7 +10,7 @@ Repositório para documentar meus estudos de Java.
 - [x] Seção 2 - [Estrutura condicional](src/secao02/README.md)
 - [x] Seção 3 - [Estrutura repetitivas](src/secao03/README.md)
 - [x] Seção 4 - [Outros tópicos básicos sobre Java](src/secao04/README.md)
-- [ ] Seção 5 - Introdução à Programação Orientada a Objeto
+- [ ] Seção 5 - [Introdução à Programação Orientada a Objeto](src/secao05/README.md)
 - [ ] Seção 6 - Construtores, palavras this, sobrecarga, encapsulamento
 - [ ] Seção 7 - Comportamento de memória, arrays, listas
 - [ ] Seção 8 - Tópicos especiais em Java: data-hora
