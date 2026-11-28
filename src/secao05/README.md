@@ -13,7 +13,7 @@ Exercícios
 - [Program.java](exercicio01/application/Program.java)
 - [Triangle.java](exercicio01/entities/Triangle.java)
 - [Exercicio 02](exercicio02): Fazer um programa para ler os dados de um produto em estoque. Em seguida: mostra os dados do produto, realiza uma entrada e uma saída no estoque.
-- [Program.java](exercicio02/application/Program.java)
-- [Product.java](exercicio02/entities/Product.java)
+- [Program.java](exercicio02/entities/application/Program.java)
+- [Product.java](exercicio02/entities/application/Product.java)
 ## Dúvidas
 - Perguntas que ficaram em aberto
